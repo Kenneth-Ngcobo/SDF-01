@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="./profile-image.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
-</p>
+# 👋 Hi, I'm [Your Name]
 
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
-
-<p align="center">
-  🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
-</p>
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
@@ -23,13 +17,14 @@
 
 **Currently learning:**
 
-- 🏗️ Git
-- 🌍 GitHub
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
 **Future Technologies:**
 
-- 💻 HTML, CSS, JavaScript
-- ⚛️ React (soon!)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
 
